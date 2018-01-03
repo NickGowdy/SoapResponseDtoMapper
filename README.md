@@ -35,7 +35,11 @@ You can also work with collections
 
 ## Authors
 
-* **Nick Gowdy** - *Initial work* - [Institute of Civil Engineers](https://github.com/NickGowdy)(https://www.linkedin.com/in/nick-gowdy-29443917/)
+* **Nick Gowdy** - *Initial work* - [Institute of Civil Engineers](https://www.linkedin.com/in/nick-gowdy-29443917/) (https://github.com/NickGowdy)
+
+## Contact me
+
+If you want to contact me either send me a message on LinkedIn or to my [email address](nickgowdy87@gmail.com)
 
 
 
